@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/weijie/CLionProjects/untitled6/Bplustree.h
+fstream
+-
+vector
+-
+limits
+-
+iostream
+-
+
+/Users/weijie/CLionProjects/untitled6/main.cpp
+cmath
+-
+string
+-
+cstring
+-
+Bplustree.h
+/Users/weijie/CLionProjects/untitled6/Bplustree.h
+
